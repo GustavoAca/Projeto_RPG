@@ -1,0 +1,28 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RPG_Campo_Batalha",
+            "request": "launch",
+            "mainClass": "Main.RPG_Campo_Batalha",
+            "projectName": "Projeto_RPG_a12483b7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch RPG_Campo",
+            "request": "launch",
+            "mainClass": "RPG_Campo",
+            "projectName": "Projeto_RPG_a12483b7"
+        }
+    ]
+}
